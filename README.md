@@ -7,7 +7,7 @@ LLM Persuaders with Theory of Mind
 
 <div align="center">
 <h3>
-Peixuan Han, Zijia Liu, Jiaxuan You
+, Zijia Liu, Jiaxuan You
 </h3>
 </div>
 
